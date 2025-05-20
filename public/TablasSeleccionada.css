@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #e2e3e5;
+    color: #383d41;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #383d41;
+    border-bottom: 2px solid #383d41;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
